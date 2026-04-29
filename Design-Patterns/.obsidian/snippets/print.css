@@ -1,0 +1,15 @@
+@media print {
+  body {
+    background-color: #1e1e1e !important;
+    color: #ffffff !important;
+  }
+
+  .markdown-preview-view {
+    background-color: #1e1e1e !important;
+    color: #ffffff !important;
+  }
+
+  a {
+    color: #4aa3df !important;
+  }
+}
