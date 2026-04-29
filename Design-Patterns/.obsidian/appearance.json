@@ -1,0 +1,10 @@
+{
+  "cssTheme": "Things",
+  "interfaceFontFamily": "Comic Sans MS",
+  "textFontFamily": "Comic Sans MS",
+  "baseFontSize": 17,
+  "baseFontSizeAction": false,
+  "enabledCssSnippets": [
+    "print"
+  ]
+}
